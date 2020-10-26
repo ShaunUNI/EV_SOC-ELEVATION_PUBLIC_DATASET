@@ -1,4 +1,4 @@
-id,tripID,latitude,longitude,EVsRDR,batterySOC,batteryKMH,currentElevation,currentIncline,totalDistance,distanceFromLastPoint
+id,tripID,latitude,longitude,EVsRDR,batterySOC,batteryKWH,currentElevation,currentIncline,totalDistance,distanceFromLastPoint
 147,3,-37.77091986,175.1524984,115.9939574,69.04402228,16.57056535,20,-1,-1,-1
 148,3,-37.77091986,175.1524984,115.9939574,69.04402228,16.57056535,20,0,0,0
 149,3,-37.77091986,175.1524984,115.9939574,69.04402228,16.57056535,20,0,0,0
